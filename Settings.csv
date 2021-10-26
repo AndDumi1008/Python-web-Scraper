@@ -1,0 +1,3 @@
+﻿Check,Site,Extension,prod arg1,prod arg2,prod price arg1,prod price,name arg1,prod name
+1,https://www.cel.ro,/cauta/,div,productListing-nume,span,price,h2,productTitle
+1,https://www.emag.ro,/search/,div,card-item card-standard js-product-data,p,product-new-price,a,card-v2-title
