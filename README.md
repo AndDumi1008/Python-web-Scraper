@@ -14,9 +14,6 @@ Resources: Using Request and BS4 modules to create the script
 Language: English
 Prog. Language: Python 3
 
-DEADLINE: 27.Oct.2021 23:00
-
-
 About the code: It should be easy to configure and run. Could increase run time if there will be
 				an multiple site scraper in only one run. Output should be easy to read if configured correctly.
 				
@@ -25,7 +22,8 @@ About the code: It should be easy to configure and run. Could increase run time 
 				First run the 'requirement.txt' with command prompt, enter the following command: pip install -r <path/to/requirement.txt>
 				Then you can run as it is or check config file.
 				
-				For other site scrap add look at how config file is wrote. For remove you can delete or change on RUN column from 1 to 0
+				For other site scrap add look at how config file is wrote. For remove you can delete or change on CHECK column from 1 to 
+				other value
 				or vice-versa, where 1 means it will run and scrap the site or 0 to not scrap scrap the site.
 				
 				Program stop if there is an error. Please provide feedback!
