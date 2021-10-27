@@ -1,6 +1,6 @@
 || App name: Sharpp
 || Author: Andrei Dumitrescu
-|| Curent Version: (Soon to start) Beta 0.1
+|| Curent Version: 1.0
 || Code Language: Python 3
 || Platform: Windows
 
