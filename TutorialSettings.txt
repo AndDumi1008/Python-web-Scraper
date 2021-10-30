@@ -1,0 +1,10 @@
+Column -------	What does?
+A		check site (1 = true)
+B		site you want to check price on
+C		first extension of the site (ex: /search/). You can see first extension when you search for a product.
+D		product tag. Search for product result with inspect tool on website.
+E		product class name. Name of the class in first product result.
+F		product price tag
+G		product price class name
+H		product name tag. Search for title of the product and it's tag
+I		product class name
