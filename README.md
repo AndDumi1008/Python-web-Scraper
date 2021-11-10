@@ -10,6 +10,8 @@ DO THIS BEFORE RUNNING:
 	If You are in project location in cmd :	python -m pip install -r requirements.txt
 	Else :				python -m pip install -r "<path>\requirements.txt"
 
+Provide feedback at: https://forms.gle/KjvzkRKT19oMfZ8h8
+
 Goal: Run Script, take user input and export/append price of the product to the table so you can monitor price over time.
 Resources: Using Request and BS4 modules to create the script. (take a look at 'DO THIS BEFORE RUNNING')
 Language: English / Output will be in whatever language site is set to.
